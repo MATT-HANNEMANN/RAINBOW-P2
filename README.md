@@ -7,4 +7,4 @@ INDIGO
 BLUE
 GREEN 
 VIOLET
-and a cute little Kitty Cat and Puppy
+and a cute little Kitty Cat and Puppies
